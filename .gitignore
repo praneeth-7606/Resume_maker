@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Node.js dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Python-specific (FastAPI or general Python projects)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv/
+.env.*
+*.egg-info/
+dist/
+build/
+*.db
+instance/
+*.sqlite3
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage and testing
+coverage/
+*.lcov
+.nyc_output/
+.pytest_cache/
+.tox/
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.sublime-workspace

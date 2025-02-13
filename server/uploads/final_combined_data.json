@@ -1,0 +1,156 @@
+{
+    "resume": {
+        "paragraphs": [
+            "Name : Gokulkrishnan Thangamani",
+            "Role : Salesforce Developer",
+            "",
+            "",
+            "",
+            "",
+            "PROFESSIONAL SUMMARY",
+            "Dynamic and innovative AIML Developer with 8 months of hands-on experience specializing in crafting conversational AI solutions and leveraging cutting-edge technologies. Proficient in developing and deploying diverse projects, including HR interview bots, assessment test bots, and assistant bots tailored to specific business needs. Skilled in harnessing the power of PVerify data for enhanced bot functionality and adept at generating document summaries using advanced language models (LLMs) and Latent Dirichlet Allocation (LDA) techniques.",
+            "",
+            "Accustomed to driving innovation through continuous research and development (R&D), exploring emerging technologies such as LangChain frameworks to prototype proof-of-concept (POC) solutions. Proven ability to thrive in fast-paced environments, collaborating cross-functionally to deliver impactful AI solutions that drive business growth and enhance user experiences.",
+            "",
+            "Demonstrated expertise in language chaining and latent semantic indexing, facilitating seamless integration and efficient information retrieval in complex conversational contexts. Experienced in vector creation, manipulation, and management, optimizing model performance and scalability. Proficient in leveraging pre-trained models from Hugging Face for accelerated development cycles and superior natural language understanding.",
+            "",
+            "",
+            "EDUCATION",
+            "",
+            "KLUniversity ,coimbatore",
+            "SKILLS",
+            "",
+            "",
+            "PROJECT DETAILS",
+            "",
+            "Interview Bot",
+            "",
+            "",
+            "Service BOT",
+            "",
+            "",
+            "ASSESMENT BOT",
+            "",
+            ""
+        ],
+        "tables": [
+            [
+                [
+                    "Generative AI/LLMS\nLangChain,Lama-Index,",
+                    ""
+                ],
+                [
+                    "Python(fastapi,flask)",
+                    ""
+                ],
+                [
+                    "Nlp(Text Handling)            \nMulti-Agent,Auto-Gen\nAws(s3,Ec2,codecommit)\nPostgreSQL",
+                    ""
+                ]
+            ],
+            [
+                [
+                    "Developed with Python, this innovative bot transforms recruitment by conducting tailored assessments.Powered by Language Models (LLMs), it analyzes resumes and generates customized aptitude and communication tests. Dynamic and adaptive, it evolves in real-time based on candidate responses, providing accurate evaluations. By leveraging cutting-edge AI, it streamlines hiring processes, minimizes bias, and identifies top talent efficiently. The HR Interview Bot represents a significant advancement in modern recruitment, enhancing the candidate experience and optimizing hiring outcomes.",
+                    "Developed with Python, this innovative bot transforms recruitment by conducting tailored assessments.Powered by Language Models (LLMs), it analyzes resumes and generates customized aptitude and communication tests. Dynamic and adaptive, it evolves in real-time based on candidate responses, providing accurate evaluations. By leveraging cutting-edge AI, it streamlines hiring processes, minimizes bias, and identifies top talent efficiently. The HR Interview Bot represents a significant advancement in modern recruitment, enhancing the candidate experience and optimizing hiring outcomes."
+                ],
+                [
+                    "Role",
+                    "AI/ML DEVELOPER"
+                ],
+                [
+                    "Technology",
+                    "python,Langchain,LLMs,NlP(Spacy),whisper,Fastapi,S3,EC2"
+                ],
+                [
+                    "Role Played",
+                    "As an AIML Developer, I spearheaded the creation of an HR interview bot utilizing Python, designed to streamline the recruitment process. This innovative solution conducts comprehensive assessments by parsing user resumes and administering aptitude and communication tests. Leveraging advanced language models (LLMs), the bot intelligently evaluates candidate responses, ensuring a tailored and efficient evaluation process. By seamlessly integrating with existing systems, it enhances HR workflows, saving valuable time and resources. The bot's intuitive interface empowers candidates to showcase their skills and qualifications effectively. Through meticulous development and testing, I ensured the bot's accuracy and reliability, meeting stringent performance standards. This HR interview bot represents a paradigm shift in recruitment methodologies, offering a personalized and data-driven approach to candidate evaluation. Its versatility allows for easy customization to adapt to evolving organizational needs and requirements. Overall, this project exemplifies my expertise in AI-driven solutions and my commitment to revolutionizing traditional HR practices."
+                ]
+            ],
+            [
+                [
+                    "Innovating at the intersection of AI and service delivery, I spearheaded the development of a proof-of-concept (POC) service bot leveraging advanced language models (LLMs) and multi-agent systems. This groundbreaking solution adeptly handles a diverse array of tasks through its multi-agent architecture, seamlessly orchestrating complex workflows with precision and efficiency. By harnessing the power of natural language processing (NLP), the bot intelligently interprets user requests and delegates tasks to specialized agents, ensuring optimal resource allocation and streamlined service delivery. This POC represents a paradigm shift in service automation, offering a scalable and adaptable framework for organizations to enhance customer experiences and operational efficiency. With a focus on innovation and user-centric design, this project showcases my expertise in AI-driven solutions and my commitment to pushing the boundaries of technological possibility.",
+                    "Innovating at the intersection of AI and service delivery, I spearheaded the development of a proof-of-concept (POC) service bot leveraging advanced language models (LLMs) and multi-agent systems. This groundbreaking solution adeptly handles a diverse array of tasks through its multi-agent architecture, seamlessly orchestrating complex workflows with precision and efficiency. By harnessing the power of natural language processing (NLP), the bot intelligently interprets user requests and delegates tasks to specialized agents, ensuring optimal resource allocation and streamlined service delivery. This POC represents a paradigm shift in service automation, offering a scalable and adaptable framework for organizations to enhance customer experiences and operational efficiency. With a focus on innovation and user-centric design, this project showcases my expertise in AI-driven solutions and my commitment to pushing the boundaries of technological possibility."
+                ],
+                [
+                    "Role",
+                    "AI/ML DEVELOPER"
+                ],
+                [
+                    "Technology",
+                    "Langchain,Openai,python,fastapi,streamlit,Nlp"
+                ],
+                [
+                    "Role Played",
+                    "As an AI/ML Developer, I led the development of a groundbreaking Proof of Concept (POC) for a service bot leveraging advanced Language Models (LLMs) and multi-agent systems. This innovative solution revolutionizes task management by employing multi-agent architecture to efficiently handle diverse tasks. By harnessing the power of Natural Language Processing (NLP), the bot intelligently interprets user requests and delegates them to appropriate agents, ensuring seamless task execution. The POC showcases my proficiency in orchestrating complex AI systems and integrating cutting-edge technologies to solve real-world challenges. Through rigorous experimentation and refinement, I optimized the bot's performance and scalability, laying the foundation for future deployment in diverse domains. This project underscores my expertise in AI-driven innovation and my commitment to pushing the boundaries of what's possible in the field of intelligent automation."
+                ]
+            ],
+            [
+                [
+                    "Introducing an Assessment Bot empowered by state-of-the-art T5 models and advanced Language Models (LLMs). This transformative bot revolutionizes the assessment process by dynamically generating multiple-choice, true/false, and descriptive questions. Leveraging the power of Natural Language Processing (NLP), it intelligently analyzes content and formulates tailored questions to evaluate comprehension and critical thinking skills. Seamlessly integrating with existing systems, the bot streamlines assessment workflows and enhances efficiency. Its intuitive interface empowers users to engage with personalized assessments, fostering a more interactive and insightful learning experience. By meticulously fine-tuning the bot's algorithms, I ensured accuracy and relevance, providing educators and organizations with valuable insights into learners' knowledge and proficiency. This Assessment Bot represents a paradigm shift in educational and professional evaluation methodologies, driven by cutting-edge AI technology and a commitment to excellence.",
+                    "Introducing an Assessment Bot empowered by state-of-the-art T5 models and advanced Language Models (LLMs). This transformative bot revolutionizes the assessment process by dynamically generating multiple-choice, true/false, and descriptive questions. Leveraging the power of Natural Language Processing (NLP), it intelligently analyzes content and formulates tailored questions to evaluate comprehension and critical thinking skills. Seamlessly integrating with existing systems, the bot streamlines assessment workflows and enhances efficiency. Its intuitive interface empowers users to engage with personalized assessments, fostering a more interactive and insightful learning experience. By meticulously fine-tuning the bot's algorithms, I ensured accuracy and relevance, providing educators and organizations with valuable insights into learners' knowledge and proficiency. This Assessment Bot represents a paradigm shift in educational and professional evaluation methodologies, driven by cutting-edge AI technology and a commitment to excellence."
+                ],
+                [
+                    "Role",
+                    "AI/ML DEVELOPER"
+                ],
+                [
+                    "Technology",
+                    "T5 models,langchain,Openai,python,fastapi"
+                ],
+                [
+                    "Role Played",
+                    "As an AI/ML Developer, I spearheaded the development of an innovative assessment bot powered by T5 models, a state-of-the-art transformer architecture. This cutting-edge solution revolutionizes the assessment process by autonomously generating multiple-choice, true or false, and descriptive questions using advanced Language Models (LLMs). By leveraging the power of natural language understanding and generation, the bot creates diverse and contextually relevant questions tailored to the subject matter. Through meticulous fine-tuning and validation, I ensured the bot's questions adhere to rigorous quality standards, providing reliable and insightful assessments. This project exemplifies my expertise in harnessing AI and ML technologies to drive transformative solutions in education and evaluation."
+                ]
+            ]
+        ]
+    },
+    "filtered_skill_matrix": [
+        {
+            "ID": "Role_2",
+            "Sheet Name": "Salesforce Developer",
+            "First Name": "Gokulkrishnan",
+            "Last Name": "Thangamani",
+            "Experience": "1.9 years",
+            "Expertise": "1.9 years",
+            "Salesforce Technical Competencies and External Systems Integration": {
+                "Apex programming": "4",
+                "Flow Automation": "3.0",
+                "Lightning Web Components": "4.0",
+                "Configuration": "4.0",
+                "AURA": "3.0",
+                "JavaScript": "3.0",
+                "Object-oriented programming": "4.0",
+                "Dashboards": "2.0",
+                "Custom Reports": "2.0",
+                "Experience Cloud": "3.0",
+                "Health Cloud": "3.0",
+                "Life Science Cloud": "1.0",
+                "Data Cloud": "3.0",
+                "Achieved Score out of 52": "39.0",
+                "APIs & Integration": "3.0",
+                "Manage Package Implementation": "1.0",
+                "Managed Package Development": "1.0",
+                "Data Migration\n": "3.0",
+                "Load Data": "3.0",
+                "CI/CD": "3.0",
+                "GIT": "3.0",
+                "Achieved Score out of 28": "17.0"
+            },
+            "Behavioral & Leadership Competencies and Certifications": {
+                "Communication": "3.0",
+                "Teamwork": "3.0",
+                "Accountability": "4.0",
+                "Strategic Thinking\n": "Certified",
+                "Decision-Making\n": "2.0",
+                "Coaching and Mentoring\n": "2.0",
+                "Customer Focus": "2.0",
+                "Achieved Score out of 28.1": "17.0",
+                "DATA CLOUD CONSULTANT": "Certified",
+                "PLATFORM DEVELOPER I": "Certified",
+                "JAVASCRIPT DEVELOPER 1": "Certified",
+                "AI ASSOCIATE\n": "Certified",
+                "AI Specialist\n": "Certified"
+            }
+        }
+    ]
+}

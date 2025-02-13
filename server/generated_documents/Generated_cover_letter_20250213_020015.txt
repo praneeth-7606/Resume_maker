@@ -1,0 +1,31 @@
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Email Address]
+[Phone Number]
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+[City, State, ZIP Code]
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Salesforce Developer position at [Company Name]. With 1.9 years of hands-on experience in Salesforce development and a strong background in AI/ML, I am excited about the opportunity to contribute to your team.
+
+In my current role as a Salesforce Developer, I have honed my skills in Apex programming, Flow Automation, Lightning Web Components, and Configuration. My expertise also extends to AURA, JavaScript, Object-oriented programming, and various Salesforce Clouds such as Experience Cloud, Health Cloud, and Data Cloud. I have successfully developed and deployed diverse AI/ML projects, including HR interview bots, assessment bots, and service bots, leveraging cutting-edge technologies like LangChain, T5 models, and advanced language models (LLMs).
+
+One of my notable achievements is the development of an HR interview bot that streamlines the recruitment process by conducting tailored assessments and generating customized aptitude and communication tests. This bot, powered by Python and advanced language models, analyzes resumes and evolves in real-time based on candidate responses, providing accurate evaluations and minimizing bias. Additionally, I spearheaded the creation of a POC service bot that utilizes multi-agent systems and NLP to handle diverse tasks efficiently, showcasing my ability to innovate and drive business growth.
+
+I am particularly drawn to [Company Name] because of your commitment to leveraging technology to enhance user experiences and drive business success. I am confident that my skills and experiences align well with your mission, and I am eager to bring my expertise in Salesforce development and AI/ML to your team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and certifications align with the needs of your team. Please feel free to contact me at [Your Phone Number] or [Your Email Address] to schedule an interview.
+
+Sincerely,
+
+Gokulkrishnan Thangamani
+
+---
+
+**Note:** Ensure to replace placeholders like `[Your Name]`, `[Your Address]`, `[Company Name]`, and others with actual data before sending the cover letter.

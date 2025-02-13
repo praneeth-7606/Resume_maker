@@ -1,0 +1,63 @@
+**[Your Name]**
+[Your Address]
+[City, State, ZIP Code]
+[Email Address]
+[Phone Number]
+[Date]
+
+**[Recipient's Name]**
+[Recipient's Job Title]
+[Company Name]
+[Company Address]
+[City, State, ZIP Code]
+
+Dear [Recipient's Name],
+
+I am writing to express my interest in the [Job Title] position at [Company Name], as advertised. With 1.9 years of experience as a Salesforce Developer and a dynamic background in AI/ML development, I am confident in my ability to contribute effectively to your team.
+
+**Professional Summary:**
+
+I am a dynamic and innovative AI/ML Developer with 8 months of hands-on experience specializing in crafting conversational AI solutions. My expertise includes developing and deploying diverse projects such as HR interview bots, assessment test bots, and assistant bots tailored to specific business needs. I am proficient in harnessing the power of PVerify data for enhanced bot functionality and adept at generating document summaries using advanced language models (LLMs) and Latent Dirichlet Allocation (LDA) techniques.
+
+My technical competencies include:
+- **Apex programming**: 4
+- **Lightning Web Components**: 4
+- **Configuration**: 4
+- **Object-oriented programming**: 4
+
+My behavioral competencies include:
+- **Communication**: 3
+- **Teamwork**: 3
+- **Accountability**: 4
+
+I am certified in:
+- **DATA CLOUD CONSULTANT**
+- **PLATFORM DEVELOPER I**
+- **JAVASCRIPT DEVELOPER 1**
+- **AI ASSOCIATE**
+- **AI Specialist**
+
+**Education:**
+
+I graduated from KLUniversity, Coimbatore.
+
+**Skills:**
+
+My skills are categorized as follows:
+- **Technical Skills**: Generative AI/LLMS, LangChain, Lama-Index, Python (FastAPI, Flask), NLP (Text Handling), Multi-Agent, Auto-Gen, AWS (S3, EC2, CodeCommit), PostgreSQL
+- **Analytical Skills**: Data analysis, problem-solving, and critical thinking
+- **Soft Skills**: Communication, teamwork, and strategic thinking
+
+**Project Details:**
+
+**HR Interview Bot**
+| Description | Developed with Python, this innovative bot transforms recruitment by conducting tailored assessments. Powered by Language Models (LLMs), it analyzes resumes and generates customized aptitude and communication tests. Dynamic and adaptive, it evolves in real-time based on candidate responses, providing accurate evaluations. By leveraging cutting-edge AI, it streamlines hiring processes, minimizes bias, and identifies top talent efficiently. |
+| Role | AI/ML DEVELOPER |
+| Technology | Python, Langchain, LLMs, NLP (Spacy), Whisper, FastAPI, S3, EC2 |
+| Contributions | Spearheaded the creation of an HR interview bot utilizing Python, designed to streamline the recruitment process. This innovative solution conducts comprehensive assessments by parsing user resumes and administering aptitude and communication tests. Leveraging advanced language models (LLMs), the bot intelligently evaluates candidate responses, ensuring a tailored and efficient evaluation process. By seamlessly integrating with existing systems, it enhances HR workflows, saving valuable time and resources. The bot's intuitive interface empowers candidates to showcase their skills and qualifications effectively. Through meticulous development and testing, I ensured the bot's accuracy and reliability, meeting stringent performance standards. |
+
+**Service Bot**
+| Description | Innovating at the intersection of AI and service delivery, I spearheaded the development of a proof-of-concept (POC) service bot leveraging advanced language models (LLMs) and multi-agent systems. This groundbreaking solution adeptly handles a diverse array of tasks through its multi-agent architecture, seamlessly orchestrating complex workflows with precision and efficiency. By harnessing the power of natural language processing (NLP), the bot intelligently interprets user requests and delegates tasks to specialized agents, ensuring optimal resource allocation and streamlined service delivery. |
+| Role | AI/ML DEVELOPER |
+| Technology | Langchain, OpenAI, Python, FastAPI, Streamlit, NLP |
+| Contributions | Led
